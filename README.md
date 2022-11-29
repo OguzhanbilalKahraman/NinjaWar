@@ -22,19 +22,19 @@ D-SAĞ OK ----> SAĞA HAREKET SAĞLAR
     Diğer Ninja klanları mutlak gücü İga klanına vermek istememektedir. Bakalım Kahramınımız Obi tekrardan güç sıralamasında klanını ilk bire koyabilecek mi?
 
 
-SpawnRoutine: Engellerin tekrar tekrar rastgele gelmesi. // Ahmet Ve Oguz
+SpawnRoutine: Engellerin tekrar tekrar rastgele gelmesi. // (Ahmet Ve Oguz)
 
-Vertical Horizontal İnput:  Karakterin Eksen Hareketi // Oguz
+Vertical Horizontal İnput:  Karakterin Eksen Hareketi // (Oguz)
 
-2D upper down gravitiy: Yukarı zemin ve aşağı zemin yerçekimini sağlıyor // Oguz
+2D upper down gravitiy: Yukarı zemin ve aşağı zemin yerçekimini sağlıyor // (Oguz)
 
-Collision : Karakterin zıplarken zeminlere değmesine göre yerçekimini devreye soktuğumuz ve kontrol sağladımız fonksiyon// Ahmet
+Collision : Karakterin zıplarken zeminlere değmesine göre yerçekimini devreye soktuğumuz ve kontrol sağladımız fonksiyon// (Ahmet)
 
-Engel ve Engellerin belirli indisten sonra yok olmasını sağlayan kod // Ahmet
+Engel ve Engellerin belirli indisten sonra yok olmasını sağlayan kod // (Ahmet)
 
-Ana karakterin yandıktan sonra engel oluşturmamasını sağlayan kod // Oguz
+Ana karakterin yandıktan sonra engel oluşturmamasını sağlayan kod // (Oguz)
 
-PauseMenu: Oyunun pause yapmasını sağlayan menü // Ahmet
+PauseMenu: Oyunun pause yapmasını sağlayan menü // (Ahmet)
 
 
 
